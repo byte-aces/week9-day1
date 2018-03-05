@@ -1,0 +1,13 @@
+html, body {
+    background-color:black;
+}
+
+.first {
+    color:lightgrey;
+    font-style:italic;
+}
+
+#first {
+    color:yellow;
+    font-style:normal;
+}
